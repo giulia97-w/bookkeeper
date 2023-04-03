@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-science-provider/src/main/java/org/apache/bookkeeper/stats/twitter/science/OpStatsLoggerImpl.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-science-provider/src/main/java/org/apache/bookkeeper/stats/twitter/science/TwitterStatsLoggerImpl.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-science-provider/src/main/java/org/apache/bookkeeper/stats/twitter/science/CounterImpl.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-science-provider/src/main/java/org/apache/bookkeeper/stats/twitter/science/TwitterStatsProvider.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-science-provider/src/main/java/org/apache/bookkeeper/stats/twitter/science/HTTPStatsExporter.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-science-provider/src/main/java/org/apache/bookkeeper/stats/twitter/science/package-info.java">
+</file>
+</checkstyle>

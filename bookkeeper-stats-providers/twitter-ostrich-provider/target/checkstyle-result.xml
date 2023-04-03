@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-ostrich-provider/src/main/java/org/apache/bookkeeper/stats/twitter/ostrich/OpStatsLoggerImpl.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-ostrich-provider/src/main/java/org/apache/bookkeeper/stats/twitter/ostrich/CounterImpl.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-ostrich-provider/src/main/java/org/apache/bookkeeper/stats/twitter/ostrich/OstrichProvider.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-ostrich-provider/src/main/java/org/apache/bookkeeper/stats/twitter/ostrich/OstrichStatsLoggerImpl.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/twitter-ostrich-provider/src/main/java/org/apache/bookkeeper/stats/twitter/ostrich/package-info.java">
+</file>
+</checkstyle>

@@ -1,0 +1,6 @@
+org/apache/bookkeeper/stats/twitter/finagle/FinagleStatsProvider.class
+org/apache/bookkeeper/stats/twitter/finagle/FinagleStatsLoggerImpl.class
+org/apache/bookkeeper/stats/twitter/finagle/OpStatsLoggerImpl.class
+org/apache/bookkeeper/stats/twitter/finagle/package-info.class
+org/apache/bookkeeper/stats/twitter/finagle/FinagleStatsLoggerImpl$1.class
+org/apache/bookkeeper/stats/twitter/finagle/CounterImpl.class

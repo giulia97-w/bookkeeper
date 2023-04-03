@@ -1,0 +1,9 @@
+org/apache/bookkeeper/stats/twitter/science/HTTPStatsExporter.class
+org/apache/bookkeeper/stats/twitter/science/HTTPStatsExporter$1.class
+org/apache/bookkeeper/stats/twitter/science/package-info.class
+org/apache/bookkeeper/stats/twitter/science/CounterImpl.class
+org/apache/bookkeeper/stats/twitter/science/OpStatsLoggerImpl.class
+org/apache/bookkeeper/stats/twitter/science/TwitterStatsLoggerImpl$1.class
+org/apache/bookkeeper/stats/twitter/science/TwitterStatsProvider.class
+org/apache/bookkeeper/stats/twitter/science/TwitterStatsLoggerImpl.class
+org/apache/bookkeeper/stats/twitter/science/TwitterStatsProvider$1.class

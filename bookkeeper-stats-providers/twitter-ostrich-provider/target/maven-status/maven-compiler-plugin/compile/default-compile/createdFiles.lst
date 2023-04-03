@@ -1,0 +1,7 @@
+org/apache/bookkeeper/stats/twitter/ostrich/CounterImpl.class
+org/apache/bookkeeper/stats/twitter/ostrich/OpStatsLoggerImpl.class
+org/apache/bookkeeper/stats/twitter/ostrich/OstrichStatsLoggerImpl.class
+org/apache/bookkeeper/stats/twitter/ostrich/OstrichStatsLoggerImpl$1.class
+org/apache/bookkeeper/stats/twitter/ostrich/OstrichProvider$1.class
+org/apache/bookkeeper/stats/twitter/ostrich/OstrichProvider.class
+org/apache/bookkeeper/stats/twitter/ostrich/package-info.class
