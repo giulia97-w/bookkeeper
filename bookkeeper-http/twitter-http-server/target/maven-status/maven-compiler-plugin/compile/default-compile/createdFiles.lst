@@ -1,0 +1,6 @@
+org/apache/bookkeeper/http/twitter/package-info.class
+org/apache/bookkeeper/http/twitter/TwitterHttpServer.class
+org/apache/bookkeeper/http/twitter/TwitterHttpServer$1.class
+org/apache/bookkeeper/http/twitter/TwitterAbstractHandler.class
+org/apache/bookkeeper/http/twitter/TwitterHttpHandlerFactory$1.class
+org/apache/bookkeeper/http/twitter/TwitterHttpHandlerFactory.class

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-http/twitter-http-server/src/main/java/org/apache/bookkeeper/http/twitter/TwitterHttpHandlerFactory.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-http/twitter-http-server/src/main/java/org/apache/bookkeeper/http/twitter/TwitterHttpServer.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-http/twitter-http-server/src/main/java/org/apache/bookkeeper/http/twitter/TwitterAbstractHandler.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-http/twitter-http-server/src/main/java/org/apache/bookkeeper/http/twitter/package-info.java">
+</file>
+</checkstyle>
