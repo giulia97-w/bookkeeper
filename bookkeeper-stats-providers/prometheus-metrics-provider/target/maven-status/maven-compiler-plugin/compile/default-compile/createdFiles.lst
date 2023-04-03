@@ -1,0 +1,7 @@
+org/apache/bookkeeper/stats/prometheus/PrometheusOpStatsLogger.class
+org/apache/bookkeeper/stats/prometheus/PrometheusUtil.class
+org/apache/bookkeeper/stats/prometheus/PrometheusCounter.class
+org/apache/bookkeeper/stats/prometheus/PrometheusStatsLogger$1.class
+org/apache/bookkeeper/stats/prometheus/PrometheusMetricsProvider.class
+org/apache/bookkeeper/stats/prometheus/package-info.class
+org/apache/bookkeeper/stats/prometheus/PrometheusStatsLogger.class

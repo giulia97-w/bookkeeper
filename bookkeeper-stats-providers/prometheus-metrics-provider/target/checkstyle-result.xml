@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/PrometheusUtil.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/PrometheusOpStatsLogger.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/PrometheusStatsLogger.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/PrometheusMetricsProvider.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/PrometheusCounter.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/prometheus-metrics-provider/src/main/java/org/apache/bookkeeper/stats/prometheus/package-info.java">
+</file>
+</checkstyle>

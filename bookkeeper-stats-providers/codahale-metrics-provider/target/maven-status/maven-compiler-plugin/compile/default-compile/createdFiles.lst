@@ -1,0 +1,6 @@
+org/apache/bookkeeper/stats/CodahaleStatsLogger.class
+org/apache/bookkeeper/stats/CodahaleOpStatsLogger.class
+org/apache/bookkeeper/stats/CodahaleStatsLogger$2.class
+org/apache/bookkeeper/stats/CodahaleStatsLogger$1.class
+org/apache/bookkeeper/stats/CodahaleMetricsProvider.class
+org/apache/bookkeeper/stats/package-info.class

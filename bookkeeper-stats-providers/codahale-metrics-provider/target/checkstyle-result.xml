@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/codahale-metrics-provider/src/main/java/org/apache/bookkeeper/stats/CodahaleOpStatsLogger.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/codahale-metrics-provider/src/main/java/org/apache/bookkeeper/stats/CodahaleMetricsProvider.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/codahale-metrics-provider/src/main/java/org/apache/bookkeeper/stats/package-info.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats-providers/codahale-metrics-provider/src/main/java/org/apache/bookkeeper/stats/CodahaleStatsLogger.java">
+</file>
+</checkstyle>
