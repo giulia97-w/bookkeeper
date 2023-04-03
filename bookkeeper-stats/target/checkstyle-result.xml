@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/NullStatsProvider.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/Stats.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/Gauge.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/CachingStatsProvider.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/Counter.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/CachingStatsLogger.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/NullStatsLogger.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/StatsLogger.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/OpStatsData.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/StatsProvider.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/OpStatsLogger.java">
+</file>
+<file name="/Users/giuliamenichini/Downloads/bookkeeper/bookkeeper-stats/src/main/java/org/apache/bookkeeper/stats/package-info.java">
+</file>
+</checkstyle>
